@@ -347,7 +347,7 @@ color: #333333;
 }
 
 .rating {
-  background: rgb(141, 137, 137) url(./img/rating.jpg) no-repeat center;
+  background: rgb(141, 137, 137) url(./img/rating.jpg) center;
   height: 670px;
 }
 .container {
