@@ -98,7 +98,7 @@ margin-bottom: 93px;
 }
 .start__tire-right {
   width: 100%;
-  background: url(./img/Tread-right.png) ;
+  background: url(./img/tread-right.png) ;
   max-width: 312px;
 }
 .start__button {
@@ -309,8 +309,7 @@ padding-bottom:  95px;
 .types-card__img {
   margin-right: 20px;
 }
-.types-card__info {
-}
+
 .types-card__title {
   margin-bottom: 6px;
   font-weight: bold;
