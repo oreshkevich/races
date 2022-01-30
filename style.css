@@ -380,8 +380,7 @@ text-transform: uppercase;
 color: #F2F2F2;
 text-align: center;
 }
-.rating__card-container {
-}
+
 .rating__card {
   height: 74px;
   display: flex;
