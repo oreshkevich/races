@@ -392,7 +392,7 @@ text-align: center;
   backdrop-filter: blur(6px);
   box-shadow:  0 0 3px 3px #f8f8f8;
 }
-.rating__card-nomber {
+.rating__card-number {
   font-size: 48px;
 line-height: 56px;
 text-align: center;
